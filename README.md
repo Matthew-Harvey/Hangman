@@ -1,2 +1,2 @@
 # Hangman
-Classic Hangman game that is a mini coding challenge.
+Classic Hangman game as a mini coding challenge.
